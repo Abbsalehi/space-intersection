@@ -22,7 +22,7 @@ Exterior orientation parameters (EOP) from aerial calibration or GNSS/IMU
 
 ### 🛠️ Usage
 ```console
-git clone https://github.com/your-username/space-intersection.git 
+git clone https://github.com/Abbsalehi/space-intersection.git 
 # Change directory
 cd space-intersection 
 # Run the intersection script
